@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# recordchainspindle/disCOrD-ZapREt 62f51ef60bd1
